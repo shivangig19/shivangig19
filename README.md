@@ -11,7 +11,7 @@
 - 📊-SQL- for database querying,
 - 🐼-Pandas- for efficient data manipulation,
 - 📈-Matplotlib and Seaborn 🌊 for insightful visualizations,
-- 💡 Power BI and Tableau 📊 for dynamic dashboards,
+- 💡-Power BI and Tableau 📊 for dynamic dashboards,
 - 📉-Advanced Excel- for data organization,
 - 🧮-MySQL- for database management,
 - 🔢-Numpy- for numerical computing.
